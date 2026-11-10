@@ -1,4 +1,5 @@
-﻿venv/
+﻿# Python
+venv/
 .venv/
 __pycache__/
 *.py[cod]
@@ -7,3 +8,16 @@ models/
 uploads/
 *.pt
 tessdata/
+
+# Android / Java
+*.iml
+.gradle/
+local.properties
+.idea/
+.DS_Store
+build/
+captures/
+.externalNativeBuild/
+.cxx/
+*.apk
+*.aab
