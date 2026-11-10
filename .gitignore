@@ -1,4 +1,6 @@
-﻿# Python
+﻿# ==========================================
+# Python
+# ==========================================
 venv/
 .venv/
 __pycache__/
@@ -9,7 +11,9 @@ uploads/
 *.pt
 tessdata/
 
-# Android / Java
+# ==========================================
+# Android / Java (Junk files to ignore)
+# ==========================================
 *.iml
 .gradle/
 local.properties
